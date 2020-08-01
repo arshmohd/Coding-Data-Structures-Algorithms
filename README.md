@@ -10,7 +10,7 @@
         - [✔ ]  Binary search tree
         - [ ]  Heap
         - [ ]  Priority queue
-        - [ ]  Hash table
+        - [✔ ]  Hash table
         - [ ]  Avl tree
         - [ ]  RedBlack tree
         - [✔ ]  Dfs
