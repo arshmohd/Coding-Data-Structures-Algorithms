@@ -17,7 +17,9 @@
         - [✔ ]  Bfs
         - [ ]  Dijkstra's Shortest Path Algorithm
         - [ ]  Bellman ford
+        - [ ]  Prim's algorithm
         - [ ]  Sorting
+        
 
     - Dynamic Programming
         - [ ]  0-1 Knapsack
