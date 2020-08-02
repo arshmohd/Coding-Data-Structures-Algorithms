@@ -8,7 +8,7 @@
         - [✔ ]  Queue
         - [✔ ]  Circular queue
         - [✔ ]  Binary search tree
-        - [ ]  Heap
+        - [✔ ]  Heap
         - [ ]  Priority queue
         - [✔ ]  Hash table
         - [ ]  Avl tree
