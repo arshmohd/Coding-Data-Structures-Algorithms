@@ -3,6 +3,7 @@
 
     - Data structure and Algorithm
         - [✔ ]  Dynamic Array 
+		 [![IMAGE ALT TEXT](http://img.youtube.com/vi/6gIK35_L9eI/1.jpg)](https://youtu.be/6gIK35_L9eI) 
         - [✔ ]  Doubly Linked list
         - [✔ ]  Stack
         - [✔ ]  Queue
@@ -63,8 +64,7 @@
 
 |   	|   	|
 |:-:	|:-:	|
-|  Dynamic Array 	|  [![IMAGE ALT TEXT](http://img.youtube.com/vi/6gIK35_L9eI/1.jpg)](https://youtu.be/6gIK35_L9eI) 
-	|
+|  Dynamic Array 	|  [![IMAGE ALT TEXT](http://img.youtube.com/vi/6gIK35_L9eI/1.jpg)](https://youtu.be/6gIK35_L9eI) |
 |   	|   	|
 |   	|   	|
 |   	|   	|
