@@ -24,7 +24,7 @@ public void addAt(int index, int item){
         
         Shift all elements 
         
-        <img src="/DynamicArray/Images/a1.gif">
+        <img src="DynamicArray/Images/a1.gif">
         
             ar[i+1]=ar[i];// ar[i] will placed at ar[i+1]
             
