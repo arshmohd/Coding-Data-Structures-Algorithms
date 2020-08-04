@@ -84,4 +84,10 @@ class DynamicArray{
         ar[top-1]=0;
         top--;
     }
+    void show(){
+        for(int i=0;i<ar.length;i++){
+            System.out.print(ar[i]+"  ");
+        }
+        System.out.println("");
+    }
 }
