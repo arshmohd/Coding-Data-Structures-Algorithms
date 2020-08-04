@@ -1,26 +1,26 @@
 class DynamicArray{
-    /**An array which can grow at runtime
+    /**Dynamic array is - An array which can grow at runtime when array is full, shrink at runtime when aray is half full.
      * It bassicall contains extend() method which decides when to GROW
-     * and, reduce() methos which decides when to Shrink
-     * these two method makes a normal array to dynanic array
+     * and, reduce() methos which decides when to SHRINK.
+     * these two method makes a normal array to dynamic array
      *  */ 
 
      int [] ar; // the array
      int size;// size of the array
-     int top;// pointing the 0 th index initially , but it updated to next empty cell
+     int top;// it pointed to the next empty cell of the array
      
     public DynamicArray(){
         // CONSTRUCTOR
         ar=new int [1];// Initially the ar has size 1, It update its size at runtime when items are inserted
         size=1;// initially size is 1
-        top=0; // top initially pointing the 0th index
+        top=0; // top initially pointing the 0th index, as ar is empty initially.
     }
     public void extend(){
         int temp[]=null;// creating Temporary array
         if(top==size){
-            // when top and size both have same value, array is full, then
+            // when  array is full, In other Words- top and size both have same value, then-
             temp=new int[size*2];// create temmp array with Double size the previous size was
-            // then just copy all elements from ar array to temp array
+            // just copy all elements from ar array to temp array
             for(int i=0;i<size;i++){
                 temp[i]=ar[i];
             }
@@ -31,9 +31,9 @@ class DynamicArray{
         }
     }
     public void add(int item){
-        extend();// calling extend method to decide when to double the size.
-        ar[top]=item;// item will added at where top pointing
-        top++;// then after adding top will pointing next cell
+        extend();// calling extend method to decide when to double the size of the ar array.
+        ar[top]=item;// in the ar array item will added at where top pointing.
+        top++;// then after adding top will pointing to the next cell, which is empty at this time.
     }
     public void addAt(int index, int item){
         //adding at specified index
@@ -44,6 +44,7 @@ class DynamicArray{
         }
         else
         {for(int i=top-1;i>=index;i--){
+            // Shift all elements 
             ar[i+1]=ar[i];// ar[i] will placed at ar[i+1]
         }
         ar[index]=item;
