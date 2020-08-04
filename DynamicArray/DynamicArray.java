@@ -73,9 +73,13 @@ class DynamicArray{
             ar[top-1]=0;// make the last element 0
             top--;// reduce the top pointer, which now will point the deleteted index
         }
+        else{
+            System.out.println("    Empty ");
+        }
     }
     public void removeAt(int index){
-        // remove the element which is specified by index
+        if(top>0){
+            // remove the element which is specified by index
         reduce();// calling reduce method to decide when shrink the array..
         for(int i=index;i<top-1;i++){
             // Shift elements 
@@ -83,11 +87,22 @@ class DynamicArray{
         }
         ar[top-1]=0;
         top--;
-    }
-    void show(){
-        for(int i=0;i<ar.length;i++){
-            System.out.print(ar[i]+"  ");
         }
-        System.out.println("");
+        else{
+            System.out.println("    EMPTY");
+        }
+        
+    }
+   void show(){
+        if(top>0){
+            for(int i=0;i<top;i++){
+                System.out.print(ar[i]+"  ");
+            }
+            System.out.println("");
+        }
+        else{
+            System.out.println("Nothing to show");
+        }
+       
     }
 }
