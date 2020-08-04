@@ -22,11 +22,11 @@ class DynamicArray{
             temp=new int[size*2];// create temmp array with Double size the previous size was
             // just copy all elements from ar array to temp array
             for(int i=0;i<size;i++){
-                temp[i]=ar[i];
+                temp[i]=ar[i];// all elements of ar array are copied to temp array.
             }
             // then make temp as ar
             ar=temp;// the real temp will garbage collected
-            size=size*2;// update the size..
+            size=size*2;// update the size.. double the size
 
         }
     }
@@ -44,7 +44,7 @@ class DynamicArray{
         }
         else
         {for(int i=top-1;i>=index;i--){
-            // Shift all elements 
+            // Shift elements 
             ar[i+1]=ar[i];// ar[i] will placed at ar[i+1]
         }
         ar[index]=item;
@@ -58,11 +58,11 @@ class DynamicArray{
             // when the array is half fill, then
             temp=new int [size/2];
             for(int i=0;i<top;i++){
-                temp[i]=ar[i];
+                temp[i]=ar[i];//all elements of ar array are copied to temp array.
             }
              // then make temp as ar
             ar=temp;// the real temp will garbage collected
-            size=size/2;// update the size..
+            size=size/2;// update the size.. half the size
         }
     }
     public void remove(){
@@ -78,6 +78,7 @@ class DynamicArray{
         // remove the element which is specified by index
         reduce();// calling reduce method to decide when shrink the array..
         for(int i=index;i<top-1;i++){
+            // Shift elements 
             ar[i]=ar[i+1];// ar[i+1] will places at ar[i]
         }
         ar[top-1]=0;
