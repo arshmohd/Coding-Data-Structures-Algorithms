@@ -63,21 +63,7 @@
 
 | Topic  	|   Debug  Video    |
 |:-:	|:-:	|
-|  Dynamic Array 	|  [![IMAGE ALT TEXT](http://img.youtube.com/vi/6gIK35_L9eI/1.jpg)](https://youtu.be/6gIK35_L9eI) |
-|   	|   	|
-|   	|   	|
-|   	|   	|
-|   	|   	|
-|   	|   	|
-|   	|   	|
-|   	|   	|
-|   	|   	|
-|   	|   	|
-|   	|   	|
-|   	|   	|
-|   	|   	|
-|   	|   	|
-|   	|   	|
-|   	|   	|
-|   	|   	|
-|   	|   	|
+|  Dynamic Array 	|  [![IMAGE ALT TEXT](http://img.youtube.com/vi/27X_3gCpwAA/0.jpg)](https://youtu.be/27X_3gCpwAA) |
+|  Dynamic Array 	|  [![IMAGE ALT TEXT](http://img.youtube.com/vi/iQtxyY7xE-o/0.jpg)](https://youtu.be/iQtxyY7xE-o) |
+
+
