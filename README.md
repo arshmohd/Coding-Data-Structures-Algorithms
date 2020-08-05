@@ -64,6 +64,6 @@
 | Topic  	|   Debug  Video    |
 |:-:	|:-:	|
 |  Dynamic Array 	|  [![IMAGE ALT TEXT](http://img.youtube.com/vi/27X_3gCpwAA/0.jpg)](https://youtu.be/27X_3gCpwAA) |
-|  Dynamic Array 	|  [![IMAGE ALT TEXT](http://img.youtube.com/vi/iQtxyY7xE-o/0.jpg)](https://youtu.be/iQtxyY7xE-o) |
+|  Doubly Linked List 	|  [![IMAGE ALT TEXT](http://img.youtube.com/vi/iQtxyY7xE-o/0.jpg)](https://youtu.be/iQtxyY7xE-o) |
 
 
