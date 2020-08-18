@@ -12,7 +12,7 @@ class ArmstrongNumber{
             num=num/10;
         }
         if(temp==c){
-            System.err.println("YES");
+            System.out.println("YES");
         }
         else{
             System.out.println("No");
