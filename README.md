@@ -16,6 +16,7 @@
         - [✔ ]  Dfs
         - [✔ ]  Bfs
         - [ ]  Dijkstra's Shortest Path Algorithm
+        - [✔ ]  A*
         - [ ]  Bellman ford
         - [ ]  Prim's algorithm
         - [ ]  Sorting
