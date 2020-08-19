@@ -22,14 +22,14 @@
         
 
     - Dynamic Programming
-        - [ ]  0-1 Knapsack
-        - [ ]  0-1 Knapsack Memorization
-        - [ ]  0-1 Knapsack Top Down
-        - [ ]  Subset Sum
-        - [ ]  Equal Sum Partition
+        - [✔ ]  0-1 Knapsack
+        - [✔ ]  0-1 Knapsack Memorization
+        - [✔ ]  0-1 Knapsack Top Down
+        - [✔ ]  Subset Sum
+        - [✔ ]  Equal Sum Partition
         - [ ]  Minimum Subset sum Difference
-        - [ ]  Count the Subset Sum with Given Difference
-        - [ ]  Target Sum
+        - [✔ ]  Count the Subset Sum with Given Difference
+        - [✔ ]  Target Sum
         - [ ]  Unbound Knapsack
         - [ ]  Rod cutting
         - [ ]  Coin Change - No of Ways
