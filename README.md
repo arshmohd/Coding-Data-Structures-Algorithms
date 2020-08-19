@@ -28,7 +28,7 @@
         - [✔ ]  0-1 Knapsack Top Down
         - [✔ ]  Subset Sum
         - [✔ ]  Equal Sum Partition
-        - [ ]  Minimum Subset sum Difference
+        - [✔ ]  Minimum Subset sum Difference
         - [✔ ]  Count the Subset Sum with Given Difference
         - [✔ ]  Target Sum
         - [ ]  Unbound Knapsack
