@@ -31,12 +31,12 @@
         - [✔ ]  Minimum Subset sum Difference
         - [✔ ]  Count the Subset Sum with Given Difference
         - [✔ ]  Target Sum
-        - [ ]  Unbound Knapsack
-        - [ ]  Rod cutting
-        - [ ]  Coin Change - No of Ways
-        - [ ]  Coin Change -Minimum Number of coin
-        - [ ]  Longest Common Sub Sequence
-        - [ ]  Longest Common Substring
+        - [✔ ]  Unbound Knapsack
+        - [✔ ]  Rod cutting
+        - [✔ ]  Coin Change - No of Ways
+        - [✔ ]  Coin Change -Minimum Number of coin
+        - [✔ ]  Longest Common Sub Sequence
+        - [✔ ]  Longest Common Substring
         - [ ]  Printing Longest Common Subsequence
         - [ ]  Shortest Common Super Sequence
         - [ ]  Minimum Number of Insertion and Deletion to convert String a to
