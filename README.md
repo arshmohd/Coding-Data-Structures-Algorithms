@@ -37,13 +37,13 @@
         - [✔ ]  Coin Change -Minimum Number of coin
         - [✔ ]  Longest Common Sub Sequence
         - [✔ ]  Longest Common Substring
-        - [ ]  Printing Longest Common Subsequence
-        - [ ]  Shortest Common Super Sequence
-        - [ ]  Minimum Number of Insertion and Deletion to convert String a to
+        - [✔ ]  Printing Longest Common Subsequence
+        - [✔ ]  Shortest Common Super Sequence
+        - [✔ ]  Minimum Number of Insertion and Deletion to convert String a to
                  String b
-        - [ ]  Longest Palindromic Sub sequence
-        - [ ]  Minimum number of deletion in a string to make it a palindrome
-        - [ ]  Print shortest common Super sequence
+        - [✔ ]  Longest Palindromic Sub sequence
+        - [✔ ]  Minimum number of deletion in a string to make it a palindrome
+        - [✔ ]  Print shortest common Super sequence
         - [ ]  Longest repeating sub sequence
         - [ ]  Sequence Pattern Matching
         - [ ]  Minimum number of insertion in a string to make it a palindrome
