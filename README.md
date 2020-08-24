@@ -45,10 +45,12 @@
         - [✔ ]  Minimum number of deletion in a string to make it a palindrome
         - [✔ ]  Print shortest common Super sequence
         - [ ]  Longest repeating sub sequence
-        - [ ]  Sequence Pattern Matching
-        - [ ]  Minimum number of insertion in a string to make it a palindrome
-        - [ ]  Matrix chain multiplication
-        - [ ]  Matrix chain multiplication Memorization
+        - [✔ ]  Sequence Pattern Matching
+        - [✔ ]  Minimum number of insertion in a string to make it a palindrome
+        - [✔ ]  Matrix chain multiplication
+        - [✔ ]  Matrix chain multiplication Memorization
+        - [✔ ]  Brust Ballons
+        - [✔ ]  Stic Cuts
         - [ ]  Palindrome Partitioning Recursive
         - [ ]  7 Palindrome Partitioning Memorization
         - [ ]  Palindrome Partitioning Memorized Optimization
