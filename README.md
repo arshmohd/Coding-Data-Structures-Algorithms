@@ -51,9 +51,10 @@
         - [✔ ]  Matrix chain multiplication Memorization
         - [✔ ]  Brust Ballons
         - [✔ ]  Stic Cuts
-        - [ ]  Palindrome Partitioning Recursive
-        - [ ]  7 Palindrome Partitioning Memorization
-        - [ ]  Palindrome Partitioning Memorized Optimization
+        - [✔ ]  Palindrome Partitioning Recursive
+        - [✔ ]  7 Palindrome Partitioning Memorization
+        - [✔ ]  Palindrome Partitioning Memorized Optimization
+        - [✔ ]  Palindrome Partitioning TOP DOWN
         - [ ]  Evaluate Expression to True Boolean Parenthesize
         - [ ]  Evaluate Expression To True Boolean Parenthesize Memorized
         - [ ]  Scrambled String Recursive
