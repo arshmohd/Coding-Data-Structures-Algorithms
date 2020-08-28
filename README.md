@@ -55,10 +55,10 @@
         - [✔ ]  7 Palindrome Partitioning Memorization
         - [✔ ]  Palindrome Partitioning Memorized Optimization
         - [✔ ]  Palindrome Partitioning TOP DOWN
-        - [ ]  Evaluate Expression to True Boolean Parenthesize
-        - [ ]  Evaluate Expression To True Boolean Parenthesize Memorized
-        - [ ]  Scrambled String Recursive
-        - [ ]  Scrambled String Memorized
+        - [✔ ]  Evaluate Expression to True Boolean Parenthesize
+        - [✔ ]  Evaluate Expression To True Boolean Parenthesize Memorized
+        - [✔ ]  Scrambled String Recursive
+        - [✔ ]  Scrambled String Memorized
         - [ ]  Egg Dropping Problem Recursive
         - [ ]  Egg Dropping Problem Memorization
         - [ ]  Egg Dropping Problem Memorization Optimization
