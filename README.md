@@ -59,11 +59,11 @@
         - [✔ ]  Evaluate Expression To True Boolean Parenthesize Memorized
         - [✔ ]  Scrambled String Recursive
         - [✔ ]  Scrambled String Memorized
-        - [ ]  Egg Dropping Problem Recursive
-        - [ ]  Egg Dropping Problem Memorization
-        - [ ]  Egg Dropping Problem Memorization Optimization
-        - [ ]  Dynamic Programming on Tree
-        - [ ]  *Maximum Path Sum*
+        - [✔ ]  Egg Dropping Problem Recursive
+        - [✔ ]  Egg Dropping Problem Memorization
+        - [✔ ]  Egg Dropping Problem Memorization Optimization
+        - [✔ ]  Dynamic Programming on Tree
+        - [✔ ]  *Maximum Path Sum*
 
 | Topic  	|   Debug  Video    |
 |:-:	|:-:	|
