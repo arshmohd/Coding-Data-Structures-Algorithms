@@ -11,6 +11,7 @@
         - [✔ ]  Heap
         - [ ]  Priority queue
         - [✔ ]  Hash table
+        - [✔ ]  Hash Map
         - [ ]  Avl tree
         - [ ]  RedBlack tree
         - [✔ ]  Dfs
